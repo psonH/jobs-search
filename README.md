@@ -15,3 +15,4 @@ The application has following features:
 3. The jobs are displayed with the pagination feature. 15 jobs are displayed at once.
 4. The jobs can be filtered on the basis of 'Job Title' or 'Job Type'
 5. The UI is designed using Bootstrap and is mobile-friendly.
+6. The application is deployed on GitHub Pages, [here](https://psonh.github.io/jobs-search/)
